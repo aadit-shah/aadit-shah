@@ -1,7 +1,5 @@
 ## Hey 👋 I'm Aadit
 
-## About Me 👋
-
 I am currently a 4th year Computer Science student at Ohio State University
 <!--
 **aadit-shah/aadit-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
